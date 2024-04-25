@@ -1,0 +1,11 @@
+/* static/style.css */
+.closest-images {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.closest-images img {
+    width: 200px;
+    height: auto;
+    margin: 10px;
+}
